@@ -11,8 +11,7 @@ const flash = require("connect-flash");
 const multer = require("multer");
 
 const mongoDBStore = require("connect-mongodb-session")(session);
-const MONGODB_URI =
-  "mongodb+srv://wasim:wasim9505@cluster0.hom8u.mongodb.net/shop?retryWrites=true&w=majority";
+const MONGODB_URI ="MONGODB_URl";
 
 const app = express();
 const store = new mongoDBStore({
