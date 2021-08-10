@@ -1,0 +1,40 @@
+.login-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
+
+.card {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    max-width: 500px;
+    /* height: 250px; */
+    height: 300px;
+    margin: auto;
+    background-color: ghostwhite;
+    border-radius: 15px;
+}
+
+.m {
+    margin-top: 5rem;
+}
+
+.login-form button {
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.mt {
+    margin-top: 2rem;
+}
+
+
+/* .form-control input {
+    border: 1px solid #a1a1a1;
+    font-size: medium;
+    border-radius: 2px;
+} */
